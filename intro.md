@@ -7,5 +7,11 @@ It does not go in-depth into any particular topic - check out [the Jupyter Book 
 
 Check out the content pages bundled with this sample book to see more.
 
+Hola, mi nombre es Richard y en el transcurso de toda la carrera e logrado aprender sobre programacion en varias materias como:
+Programacion Orientada a Objetos
+Programacion Funcional y Reactiva
+Programacion Avanzada
+Programacion Web
+
 ```{tableofcontents}
 ```
