@@ -7,11 +7,20 @@ It does not go in-depth into any particular topic - check out [the Jupyter Book 
 
 Check out the content pages bundled with this sample book to see more.
 
-Hola, mi nombre es Richard y en el transcurso de toda la carrera e logrado aprender sobre programacion en varias materias como:
-Programacion Orientada a Objetos
-Programacion Funcional y Reactiva
-Programacion Avanzada
-Programacion Web
+Hola, mi nombre es Richard Ortiz un gusto conocerlos.
+En cuanto a mi tengo 22 años de edad
+
+Mis pasatiempos favoritos son los siguientes:
+
+Tocar la guitarra
+
+Escalar montañas
+
+Hacer ejercicio
+
+Jugar video Juegos
+
+Esto es un poco de lo que soy y bueno en cuanto a mi vida profesional espero y aspiro lograr ser un buen profesional.
 
 ```{tableofcontents}
 ```
